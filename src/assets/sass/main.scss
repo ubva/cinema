@@ -1,0 +1,10 @@
+@import './fonts.scss','./common.scss',
+ './media.scss',
+ '../../components/nav//Nav.scss',
+ '../../components/upcoming/Upcoming.scss',
+ '../../components/slider/Slider.scss',
+ '../../components/infoblock/Info.scss';
+
+body{
+    background-color: #141414;
+}
